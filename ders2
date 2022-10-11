@@ -1,0 +1,81 @@
+<html>
+	<head>
+		<title>2.öğretim ders</title>
+	</head>
+		<body>
+		<ol type="1" reversed>
+			<li> Balıkesir </li>
+			<li> Galatasaray </li>
+			<li> beşiktaş </li>
+		</ol>
+		</body>
+</html>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<html>
+	<head>
+	</head>
+		<body>
+			<ul>
+				<li> Akedemik birimler
+					<ol type="A">
+						<li> Fakülteler</li>
+						<li> Meslek Yüksekokulları
+							<ul>
+								<li> Teknik Bilimler MYO </li>
+									<ol>
+										<li> Bilgisayar Teknolojileri </li>
+										<li> elektrik ve enerji </li>
+									</ol>
+								</li>
+								<li> Sosyal Bilimler MYO</li>
+							</ul>
+						</li>
+					</ol>
+				</li> İdari Birimler </li>
+			</ul>
+		</body>
+<html>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+<html>
+	<head>
+		<title>2.öğretim ders</title>
+	</head>
+		<body>
+		<ul type="circle">
+			<li> Balıkesir </li>
+			<li> Galatasaray </li>
+			<li> beşiktaş </li>
+		</ul>
+		</body>
+</html>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<html>
+	<head>
+		<title>2.öğretim ders</title>
+	</head>
+		<body>
+		<ol type="1" reversed>
+			<li> Balıkesir </li>
+			<img 
+			src="https://upload.wikimedia.org/wikipedia/tr/5/5a/Balikesirspor.png"
+			alt="balıkesirspor"
+			widht=200
+			height=300
+			/>
+		</ol>
+			<li> kütahya </li>
+			<img
+			src="./resim.jpg"
+			alt="kütahya"
+			widht=200
+			height=250
+			/>
+		</ol>
+		</body>
+</html>
