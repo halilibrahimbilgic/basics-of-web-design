@@ -1,0 +1,68 @@
+<html>
+    <body>
+        <h1>Dumlupınar Üniversitesi</h1>
+        <p>Okulumuz evliya çelebi yerleşkesindedir</p>
+        <p>
+            Bölümlerimiz için <a href="ders3.html"
+            target="_blank">Tıklayınız</a>
+        </p>
+        <h5>Faydalı Bağlantılar</h5>
+        <ul>
+            <li>
+                <a href="https://www.dpu.edu.tr"
+                target="_blank"
+                >DPÜ</a>
+            </li>
+            <li>
+                <a href="mailto:murat.sari@dpu.edu.tr">iletişim için Tıklayınız</a>
+            </li>
+            <li>
+                <a href="https://www.dpu.edu.tr"
+                target="_blank"><img src="dpu.png" alt="a"></a>
+            </li>
+        </ul>
+        <center><h1>öğrenci listesi </h1></center>
+        <table border="3" align="center" width="600" height="300" >
+            <tr>
+                <th width="20%">Öğrenci No</th>
+                <th width="20%">Ad</th>
+                <th width="20%">Soyad</th>
+            </tr>
+            <tr>
+                <td>202251502029</td>
+                <td>Halil İbrahim</td>
+                <td>Bilgiç</td>
+            </tr>
+            <tr>
+                <td>202251502029</td>
+                <td>Halil</td>
+                <td>Bilgiç</td>
+            </tr>
+            <tr>
+                <td>202251502029</td>
+                <td>Halil</td>
+                <td>Bilgiç</td>
+            </tr>
+            <tr>
+                <td>202251502029</td>
+                <td>Halil</td>
+                <td>Bilgiç</td>
+            </tr>
+        </table>
+    </body>
+</html>
+<!--  6. satırdakı bölümün devamı   -->
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+<html>
+    <body>
+        <h1>Bölümlerimiz</h1>
+        <ul>
+            <li>Bilgisayar teknolojileri</li>
+            <li>Bilgisayar operatörlüğü</li>
+        </ul>
+    </body>
+</html>
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
