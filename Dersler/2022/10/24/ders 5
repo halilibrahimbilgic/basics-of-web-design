@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>Form uygulaması</title>
+<!--Css 1--> <link rel="stylesheet" href="style.css">
+
+<!--css 2--> <style type="text/css">
+            #marka{
+                font-size: 25px;
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                color: aqua;
+            }
+
+            .ortala
+            {
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 id="marka">Kütahya Teknik bilimler MYO</h1>
+        <p class="ortala">Web Tasarım Temelleri</p>
+
+<!--css 3--><p style="background-color: greenyellow ;">tss</p>
+        <h1>KSBMYO</h1>
+        <p class="ortala">KTBMYO ile aynı binadadır.</p>
+    </body>
+</html>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+<html>
+    <head>
+<style type="text/css">
+body {
+    background-color :linen;
+    }
+    h1{
+        color:maroon;
+        margin-left: 40px;
+    }
+</style>
+</head>
+<body>
+    <h1>This is a headling</h1>
+    
+</body>
+</html>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
